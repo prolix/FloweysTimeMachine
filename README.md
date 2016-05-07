@@ -6,7 +6,7 @@ http://crumblingstatue.github.io/FloweysTimeMachine
 
 forked version maintained by prolix
 
-https://github.com/prolix/FloweysTimeMachine
+http://prolix.ga/FloweysTimeMachine/
 
 
 Localized version for my own website hosting needs.
