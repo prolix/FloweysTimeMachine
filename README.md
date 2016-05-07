@@ -1,8 +1,7 @@
 # Flowey's Time Machine
 Undertale SAVE editor by crumblingstatue - link to original work bellow
 
-http://crumblingstatue.github.io/FloweysTimeMachine
-
+https://github.com/crumblingstatue/FloweysTimeMachine
 
 forked version maintained by prolix
 
